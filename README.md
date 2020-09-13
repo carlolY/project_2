@@ -1,4 +1,4 @@
-# Kacy's Team Project: <Title of project>
+# Kacy's Team Project: <Spatial and Temporal Analysis of  Shoreline Cleanup Data>
 
 ## Team members names:
 
@@ -22,4 +22,7 @@ eg. Sample script usage my_script.py
     arg2: is...
  
 ## References
-1. Any project we used: eg open source tool, a library, a paper, an online resource, a data source.
+Comparison of Environmental Impact of Plastic, Paper and Cloth Bags: http://www.niassembly.gov.uk/globalassets/documents/raise/publications/2011/environment/3611.pdf
+
+Surfrider Foundations: 
+https://therevelator.org/cigarette-butt-litter-solutions/
