@@ -4,10 +4,7 @@
 
 ## Project description
 
-3-5 sentences describing the project:
-1.problem
-2.datasets
-3. why we think it is interesting
+**Most Common Types Of Waste**: contains analysis of the most commonly picked up litter items over time.
 
 ## How to use code in this repository
     code
