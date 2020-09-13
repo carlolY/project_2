@@ -4,6 +4,8 @@
 
 ## Project description
 
+**Most Common Types Of Waste**: contains analysis of the most commonly picked up litter items over time.
+=======
 Questions:
 Do we pollute more in the summer months?
 Are the most populated cities the most polluted?
