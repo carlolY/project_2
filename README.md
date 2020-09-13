@@ -4,10 +4,13 @@
 
 ## Project description
 
-3-5 sentences describing the project:
-1.problem
-2.datasets
-3. why we think it is interesting
+Questions:
+Do we pollute more in the summer months?
+Are the most populated cities the most polluted?
+Is plastic waste growing the fastest? 
+
+Dataset:
+The Greate Canadian Shoreline Data
 
 ## How to use code in this repository
     code
