@@ -1,4 +1,4 @@
-# Kacy's Team Project: <Spatial and Temporal Analysis of  Shoreline Cleanup Data>
+# Kacy's Team Project: Spatial and Temporal Analysis of  Shoreline Cleanup Data
 
 ## Team members names:
 
