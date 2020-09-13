@@ -13,9 +13,9 @@ Dataset:
 The Greate Canadian Shoreline Data
 
 ## How to use code in this repository
-    code
+
 this scrip contains 5 jupyter notebooks:
-<Temporal analysis of total waste amount by year.ipynb>: general temporal analysis of total waste
+1. Temporal analysis of total waste amount by year.ipynb: general temporal analysis of total waste
 
  
 ## References
