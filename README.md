@@ -14,12 +14,9 @@ The Greate Canadian Shoreline Data
 
 ## How to use code in this repository
     code
-this scrip contains code that does <>
+this scrip contains 5 jupyter notebooks:
+<Temporal analysis of total waste amount by year.ipynb>: general temporal analysis of total waste
 
-eg. Sample script usage my_script.py
-    python3 my_script.py <arg1> <arg2>
-    arg1: is...
-    arg2: is...
  
 ## References
 Comparison of Environmental Impact of Plastic, Paper and Cloth Bags: http://www.niassembly.gov.uk/globalassets/documents/raise/publications/2011/environment/3611.pdf
